@@ -1,6 +1,6 @@
 # Regulamin Świadczenia Usług Recwin
 
-**Data wejścia w życie:** 21 kwietnia 2026
+**Data wejścia w życie:** 20 kwietnia 2026
 **Ostatnia aktualizacja:** 21 kwietnia 2026
 
 ---
