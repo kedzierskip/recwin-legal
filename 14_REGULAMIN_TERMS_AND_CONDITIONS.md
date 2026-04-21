@@ -220,9 +220,9 @@ Klient i Użytkownicy **nie mogą:**
 
 ### 9.2 Sposób płatności
 
-1. Płatności dokonywane są przelewem bankowym lub kartą płatniczą, zgodnie z Zamówieniem.
+1. Płatności dokonywane są przelewem bankowym, zgodnie z Zamówieniem.
 
-2. Faktura VAT jest wystawiana w terminie do 15 dnia miesiąca następującego po rozpoczęciu okresu rozliczeniowego.
+2. Faktura VAT jest wystawiana w ciągu 7 dni od rozpoczęcia okresu rozliczeniowego.
 
 ### 9.3 Opóźnienie w płatności
 
