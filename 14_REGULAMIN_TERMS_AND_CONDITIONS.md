@@ -1,7 +1,7 @@
 # Regulamin Świadczenia Usług Recwin
 
 **Data wejścia w życie:** 21 kwietnia 2026
-**Ostatnia aktualizacja:** 21 kwietnia 2026
+**Ostatnia aktualizacja:** 22 kwietnia 2026
 
 ---
 
@@ -9,10 +9,8 @@
 
 1. Niniejszy Regulamin (dalej: „Regulamin") określa zasady korzystania z platformy Recwin (dalej: „Usługa" lub „Platforma"), świadczonej drogą elektroniczną przez:
 
-   **[NAZWA PODMIOTU]**
-   [ADRES SIEDZIBY]
-   NIP: [NIP]
-   KRS/CEIDG: [NUMER]
+   **Recwin**
+   Chmielna 73, 00-801 Warszawa
    E-mail: kontakt@recwin.pl
    (dalej: „Dostawca" lub „Recwin")
 
@@ -28,7 +26,7 @@
 
 | Termin | Definicja |
 |---|---|
-| **Platforma** | Aplikacja webowa (app.recwin.pl) oraz aplikacja mobilna iOS Recwin, wraz z powiązanymi usługami |
+| **Platforma** | Aplikacja webowa (app.recwin.pl) oraz aplikacje mobilne Recwin (iOS i Android), wraz z powiązanymi usługami |
 | **Klient** | Podmiot (osoba prawna, jednostka organizacyjna lub osoba fizyczna prowadząca działalność gospodarczą), który zawarł umowę na korzystanie z Usługi |
 | **Użytkownik** | Osoba fizyczna korzystająca z Platformy w imieniu Klienta: handlowiec, menedżer lub administrator konta |
 | **Handlowiec** | Użytkownik z rolą „rep" — osoba prowadząca i nagrywająca rozmowy sprzedażowe |
@@ -38,15 +36,15 @@
 | **Konto** | Konto organizacji Klienta w Platformie, w ramach którego działają Użytkownicy |
 | **Wyniki AI** | Treści wygenerowane automatycznie przez sztuczną inteligencję: podsumowania, komentarze coachingowe, oceny realizacji skryptu, analiza sentymentu, tematy, obiekcje |
 | **Dane Klienta** | Wszelkie dane (w tym dane osobowe) przesłane przez Klienta lub Użytkowników do Platformy lub przetworzone za pośrednictwem Platformy |
-| **Umowa** | Umowa o świadczenie Usługi, składająca się z niniejszego Regulaminu, Zamówienia, Polityki Prywatności, UPP/DPA i JCA |
-| **Zamówienie** | Formularz zamówienia (Order Form) określający zakres Usługi, liczbę użytkowników, okres subskrypcji i wynagrodzenie |
+| **Umowa** | Umowa o świadczenie Usługi, składająca się z niniejszego Regulaminu, Zamówienia, Polityki Prywatności i UPP/DPA |
+| **Zamówienie** | Formularz zamówienia określający zakres Usługi, liczbę użytkowników, okres subskrypcji i wynagrodzenie |
 
 ---
 
 ## § 3. Opis Usługi
 
 1. Recwin jest platformą wspierającą zespoły sprzedażowe w terenie, umożliwiającą:
-   a) nagrywanie rozmów sprzedażowych prowadzonych osobiście (wizyta u klienta) za pomocą aplikacji mobilnej iOS,
+   a) nagrywanie rozmów sprzedażowych prowadzonych osobiście (wizyta u klienta) za pomocą aplikacji mobilnej Recwin,
    b) automatyczną transkrypcję nagrań (zamiana mowy na tekst),
    c) segmentację akustyczną mówców (rozdzielenie wypowiedzi handlowca i klienta),
    d) analizę AI treści rozmów (podsumowania, coaching, tematy, obiekcje, sentyment, ocena realizacji skryptu),
@@ -56,9 +54,11 @@
 
 2. Recwin **nie jest** narzędziem do nagrywania rozmów telefonicznych, wideokonferencji ani call center. Usługa dotyczy wyłącznie bezpośrednich rozmów prowadzonych osobiście.
 
-3. Recwin **nie tworzy** wzorców biometrycznych głosu (voiceprint) i **nie wykorzystuje** nagrań do identyfikacji biometrycznej osób.
+3. Recwin nie tworzy wzorców biometrycznych głosu — szczegółowe informacje w Polityce Prywatności (sekcja 2).
 
 4. Wszystkie dane produkcyjne są przetwarzane i przechowywane **wyłącznie na terytorium Unii Europejskiej** (Frankfurt, Niemcy oraz Dublin, Irlandia).
+
+5. **Wymagania techniczne.** Korzystanie z Platformy wymaga: przeglądarki internetowej (Chrome, Safari, Firefox — aktualna wersja) oraz stałego połączenia z internetem. Aplikacja mobilna wymaga systemu iOS 16+ lub Android 10+. Aplikacja mobilna jest dostępna w App Store (iOS) i Google Play (Android). Aktualne wymagania techniczne są publikowane na stronie recwin.pl/wymagania.
 
 ---
 
@@ -90,39 +90,39 @@
 
 1. Recwin może udostępnić Klientowi bezpłatny okres próbny (dalej: „Okres próbny") na warunkach określonych przy rejestracji.
 
-2. W Okresie próbnym Usługa jest świadczona w stanie „takim, jakim jest" (AS IS). Recwin nie gwarantuje dostępności, wydajności ani kompletności funkcji w Okresie próbnym.
+2. W Okresie próbnym Usługa jest świadczona w stanie „takim, jakim jest". Recwin nie gwarantuje dostępności, wydajności ani kompletności funkcji w Okresie próbnym. Postanowienia niniejszego paragrafu nie ograniczają praw konsumentów wynikających z bezwzględnie obowiązujących przepisów prawa.
 
 3. Recwin może zakończyć Okres próbny w dowolnym momencie bez podania przyczyny.
 
 4. Po zakończeniu Okresu próbnego, jeśli Klient nie wykupi subskrypcji, dane mogą zostać usunięte po upływie 30 dni.
 
+5. Po zakończeniu Okresu próbnego Klient ma prawo żądać eksportu Danych Klienta na zasadach określonych w § 12.5 ust. 1 lit. b)-c).
+
 ---
 
 ## § 6. Obowiązki Klienta — nagrywanie rozmów
 
-**Niniejszy paragraf jest kluczowy. Klient ponosi wyłączną odpowiedzialność za legalne nagrywanie rozmów.**
-
 ### 6.1 Odpowiedzialność za legalność nagrywania
 
-1. Klient jest **administratorem danych osobowych** w rozumieniu RODO w odniesieniu do nagrań rozmów i danych swoich pracowników oraz klientów. Recwin jest podmiotem przetwarzającym (w zakresie surowych danych) oraz współadministratorem (w zakresie analizy AI) — zgodnie z UPP/DPA i JCA.
+1. Klient jest **administratorem danych osobowych** w rozumieniu RODO w odniesieniu do nagrań rozmów i danych swoich pracowników oraz klientów. Recwin jest **podmiotem przetwarzającym** w odniesieniu do wszystkich Danych Klienta (w tym wyników analizy AI) — zgodnie z UPP/DPA.
 
 2. Klient zapewnia, że:
-   a) nagrywanie jest zgodne z obowiązującym prawem, w szczególności z art. 267 Kodeksu karnego (nagrywanie przez uczestnika rozmowy),
+   a) nagrywanie nie narusza art. 267 Kodeksu karnego, ponieważ jest dokonywane wyłącznie przez uczestnika rozmowy,
    b) osoby nagrywane zostały **poinformowane przed nagraniem** o fakcie nagrywania, jego celu i okresie przechowywania,
    c) osoby nagrywane mają **prawo odmowy** nagrywania, a odmowa nie wpływa na jakość obsługi,
    d) nagrywanie jest dokonywane wyłącznie przez **uczestnika rozmowy** (handlowca obecnego fizycznie), nie przez osoby trzecie,
    e) nagrywane są wyłącznie **rozmowy służbowe** związane z obowiązkami handlowca, nie rozmowy prywatne.
 
-3. Recwin udostępnia Klientowi Pakiet Zgodności B2B zawierający wzory dokumentów niezbędnych do legalnego wdrożenia nagrywania (regulamin pracy, informacja dla pracowników, skrypt informowania klienta, karta QR).
+3. Recwin udostępnia Klientowi Pakiet Zgodności B2B zawierający wzory dokumentów niezbędnych do legalnego wdrożenia nagrywania (zgoda na nagrywanie, informacja o przetwarzaniu danych, skrypt informowania klienta, karta QR).
 
 4. Korzystanie z Pakietu Zgodności nie zwalnia Klienta z obowiązku samodzielnej weryfikacji zgodności z prawem, w tym konsultacji z radcą prawnym.
 
-5. **Obowiązek wdrożenia compliance przed nagrywaniem.** Klient zobowiązuje się, że przed rozpoczęciem nagrywania przez jakiegokolwiek Użytkownika:
-   a) zaktualizował regulamin pracy lub wydał obwieszczenie o monitoringu audio (z 2-tygodniowym wyprzedzeniem, art. 22² § 7 k.p.),
-   b) przekazał każdemu handlowcowi pisemną informację indywidualną (art. 22² § 8 k.p.),
-   c) przeszkolił handlowców ze skryptu informowania nagrywanych klientów,
-   d) sporządził Ocenę Prawnie Uzasadnionego Interesu (LIA).
-   Recwin może zażądać od Klienta pisemnego potwierdzenia spełnienia powyższych warunków. Rozpoczęcie nagrywania przez Klienta bez spełnienia tych warunków odbywa się na wyłączne ryzyko Klienta.
+5. **Obowiązek uzyskania zgód przed nagrywaniem.** Klient zobowiązuje się, że przed rozpoczęciem nagrywania przez jakiegokolwiek Użytkownika:
+   a) uzyskał **pisemną zgodę** każdego Użytkownika (handlowca) na nagrywanie rozmów i przetwarzanie danych głosowych za pomocą narzędzi AI (art. 6 ust. 1 lit. a RODO). Wzór zgody stanowi część Pakietu Zgodności B2B,
+   b) przekazał każdemu Użytkownikowi **informację o przetwarzaniu danych osobowych** zgodnie z art. 13 RODO (wzór w Pakiecie Zgodności B2B),
+   c) przeszkolił handlowców z procedury uzyskiwania ustnej zgody osób nagrywanych przed każdą rozmową,
+   d) zapewnił, że zgoda na nagrywanie **nie jest warunkiem zatrudnienia ani współpracy** — odmowa wyrażenia zgody nie może skutkować negatywnymi konsekwencjami dla Użytkownika. Użytkownik, który nie wyraża zgody, może zostać zobowiązany do samodzielnego sporządzania notatek ze spotkań.
+   Rozpoczęcie korzystania z funkcji nagrywania przez Klienta stanowi oświadczenie Klienta, że powyższe warunki zostały spełnione. Klient ponosi wyłączną odpowiedzialność za zapewnienie zgodności z obowiązującym prawem przed rozpoczęciem nagrywania.
 
 6. **Bezpieczeństwo urządzeń.** Klient zapewnia, że urządzenia mobilne Użytkowników korzystających z aplikacji Recwin:
    a) mają aktywne zabezpieczenie biometryczne (Face ID / Touch ID) lub PIN,
@@ -138,7 +138,7 @@ Klient i Użytkownicy **nie mogą** wykorzystywać Platformy do:
    b) nagrywania rozmów, w których Użytkownik nie jest uczestnikiem,
    c) nagrywania rozmów w miejscach, gdzie nagrywanie jest zabronione,
    d) nagrywania rozmów w celu szantażu, zastraszania lub innego niezgodnego z prawem celu,
-   e) nagrywania osób małoletnich (poniżej 18 lat),
+   e) celowego nagrywania osób poniżej 16 lat. W przypadku incydentalnego uchwycenia głosu osoby małoletniej (np. członka rodziny obecnego przy rozmowie), Klient powinien dołożyć starań, aby zminimalizować przetwarzanie takich danych,
    f) publikowania, udostępniania lub rozpowszechniania nagrań poza Platformą bez podstawy prawnej.
 
 ### 6.3 Konsekwencje naruszenia
@@ -156,20 +156,18 @@ Recwin zastrzega sobie prawo do **natychmiastowego zawieszenia lub zamknięcia K
 2. Wyniki AI **nie stanowią:**
    a) porady prawnej, finansowej, medycznej ani kadrowej,
    b) gwarantowanej, kompletnej ani bezbłędnej analizy rozmowy,
-   c) podstawy do automatycznego podejmowania decyzji dotyczących zatrudnienia, wynagrodzenia, awansu ani zwolnienia pracownika.
+   c) podstawy do automatycznego podejmowania decyzji dotyczących zatrudnienia lub współpracy, wynagrodzenia, awansu ani rozwiązania umowy z Użytkownikiem.
 
 3. Wyniki AI **mogą zawierać błędy** (halucynacje AI, niekompletne analizy, błędne interpretacje kontekstu). Użytkownik jest odpowiedzialny za weryfikację Wyników AI przed podjęciem jakichkolwiek działań.
 
 ### 7.2 Ocena realizacji skryptu
 
-1. Ocena realizacji skryptu sprzedażowego stanowi **zautomatyzowane profilowanie** wydajności handlowca w rozumieniu art. 22 RODO.
-
-2. Klient zobowiązuje się, że oceny realizacji skryptu:
-   a) **nie będą** stanowić wyłącznej ani głównej podstawy decyzji dotyczących stosunku pracy, wynagrodzenia, awansu ani zwolnienia,
-   b) będą zawsze **weryfikowane przez przełożonego** (człowieka) przed podjęciem jakichkolwiek decyzji kadrowych,
+1. Ocena realizacji skryptu sprzedażowego stanowi profilowanie wydajności handlowca w rozumieniu art. 4 pkt 4 RODO. Aby zapobiec zastosowaniu art. 22 RODO (zautomatyzowane podejmowanie decyzji wywołujące skutki prawne lub podobnie istotne), Klient zobowiązuje się, że oceny realizacji skryptu:
+   a) **nie będą** stanowić wyłącznej ani głównej podstawy decyzji dotyczących stosunku pracy lub współpracy, wynagrodzenia, awansu ani rozwiązania umowy,
+   b) będą zawsze **weryfikowane przez przełożonego** (człowieka) przed podjęciem jakichkolwiek decyzji dotyczących Użytkownika,
    c) będą **dostępne dla handlowca**, który ma prawo je zakwestionować.
 
-3. Recwin oznacza każdą ocenę AI etykietą informującą o jej automatycznym charakterze.
+2. Recwin oznacza każdą ocenę AI etykietą informującą o jej automatycznym charakterze.
 
 ### 7.3 Analiza sentymentu
 
@@ -181,7 +179,7 @@ Dane Klienta (nagrania, transkrypcje, wyniki AI) **nie są wykorzystywane** do t
 
 ### 7.5 Personalizacja sugestii AI
 
-Edycje komentarzy AI dokonywane przez Użytkownika mogą być wykorzystywane do personalizacji przyszłych sugestii AI dla tego samego Użytkownika. Użytkownik może wyłączyć tę funkcję w ustawieniach konta.
+Edycje komentarzy AI dokonywane przez Użytkownika mogą być wykorzystywane do personalizacji przyszłych sugestii AI dla tego samego Użytkownika. Personalizacja polega na dostosowaniu kontekstu (promptu) przekazywanego do modelu AI, nie na trenowaniu, modyfikowaniu wag ani dostrajaniu (fine-tuning) modelu AI. Użytkownik może wyłączyć tę funkcję w ustawieniach konta.
 
 ---
 
@@ -198,7 +196,7 @@ Klient może korzystać z Platformy wyłącznie:
 
 Klient i Użytkownicy **nie mogą:**
    a) odsprzedawać, sublicencjonować, wynajmować ani udostępniać Usługi osobom trzecim,
-   b) dokonywać inżynierii wstecznej, dekompilacji, dezasemblacji ani prób ekstrakcji kodu źródłowego Platformy,
+   b) dokonywać inżynierii wstecznej, dekompilacji, dezasemblacji ani prób ekstrakcji kodu źródłowego Platformy — z wyjątkiem zakresu dozwolonego przez bezwzględnie obowiązujące przepisy prawa, w tym art. 75 ust. 2 pkt 3 ustawy o prawie autorskim i prawach pokrewnych (dekompilacja w celu interoperacyjności),
    c) kopiować, modyfikować, tworzyć dzieł pochodnych na podstawie Platformy,
    d) używać Platformy do celów niezgodnych z prawem lub Regulaminem,
    e) umyślnie obchodzić mechanizmów bezpieczeństwa, limitów dostępu lub retencji,
@@ -266,7 +264,7 @@ Opłaty subskrypcyjne nie podlegają zwrotowi, z wyjątkiem:
 
 ### 10.3 Wzór formularza odstąpienia
 
-Adresat: [NAZWA PODMIOTU], [ADRES], dane@recwin.pl
+Adresat: Recwin, Chmielna 73, 00-801 Warszawa, dane@recwin.pl
 
 Niniejszym informuję o moim odstąpieniu od umowy o świadczenie usługi Recwin.
 
@@ -294,7 +292,7 @@ Podpis (jeśli formularz przesyłany w formie papierowej): _______________
 
 2. Klient udziela Recwin ograniczonej, niewyłącznej licencji na przetwarzanie Danych Klienta wyłącznie w celu świadczenia Usługi.
 
-3. Recwin może przetwarzać **zanonimizowane** dane zagregowane (Usage Data) do dowolnych celów biznesowych Recwin, w tym w szczególności:
+3. Klient upoważnia Recwin do anonimizacji Danych Klienta na warunkach opisanych poniżej. Po skutecznej anonimizacji dane nie stanowią danych osobowych (motyw 26 RODO) i mogą być przetwarzane przez Recwin do dowolnych celów biznesowych Recwin, w tym w szczególności:
    a) poprawy jakości Usługi (optymalizacja algorytmów AI, poprawa promptów),
    b) tworzenia materiałów edukacyjnych i szkoleniowych (np. biblioteka najlepszych praktyk sprzedażowych),
    c) tworzenia raportów branżowych, benchmarków i analiz rynkowych,
@@ -307,7 +305,7 @@ Podpis (jeśli formularz przesyłany w formie papierowej): _______________
 
 ### 11.3 Własność Wyników AI
 
-1. Wyniki AI wygenerowane przez Platformę na podstawie Danych Klienta (podsumowania, komentarze coachingowe, oceny skryptu, analiza sentymentu) stanowią **pochodne Danych Klienta** i przysługują Klientowi na zasadzie licencji niewyłącznej, w zakresie korzystania wewnętrznego.
+1. Wyniki AI wygenerowane przez Platformę na podstawie Danych Klienta (podsumowania, komentarze coachingowe, oceny skryptu, analiza sentymentu) stanowią **pochodne Danych Klienta** i przysługują Klientowi w zakresie korzystania wewnętrznego. Niezależnie od kwalifikacji prawnoautorskiej Wyników AI, Strony ustalają w drodze niniejszej Umowy zasady korzystania z Wyników AI określone w niniejszym paragrafie.
 
 2. Klient **może** wykorzystywać Wyniki AI do celów wewnętrznych (coaching, szkolenie, analityka, raporty).
 
@@ -385,14 +383,14 @@ Recwin może rozwiązać Umowę ze skutkiem natychmiastowym (bez wypowiedzenia),
    a) istotnie narusza Regulamin i nie usunie naruszenia w terminie 14 dni od wezwania,
    b) wykorzystuje Platformę do nagrywania niezgodnego z prawem (§ 6.2),
    c) nie reguluje płatności pomimo wezwania i dodatkowego 7-dniowego terminu (§ 9.3),
-   d) jest przedmiotem postępowania upadłościowego lub restrukturyzacyjnego.
+   d) jego sytuacja finansowa uległa istotnemu pogorszeniu w stopniu zagrażającym realizacji Umowy, potwierdzonemu obiektywnymi okolicznościami (np. zajęcie rachunków bankowych, wykreślenie z rejestru VAT).
 
 ### 12.5 Skutki rozwiązania
 
 1. Po rozwiązaniu Umowy:
    a) dostęp do Platformy zostaje natychmiast zablokowany,
-   b) Klient ma **14 dni** na żądanie eksportu Danych Klienta (w formacie JSON/CSV),
-   c) po upływie 30 dni od rozwiązania wszystkie Dane Klienta są **trwale usunięte**.
+   b) Klient ma **14 dni** na żądanie eksportu Danych Klienta (w formacie JSON/CSV). Recwin realizuje żądanie eksportu w ciągu 7 dni roboczych od jego otrzymania. Dane Klienta nie zostaną usunięte przed zakończeniem realizacji żądania eksportu złożonego w terminie,
+   c) po upływie 30 dni od rozwiązania (lub po zakończeniu realizacji eksportu, jeśli przypada później) wszystkie Dane Klienta są **trwale usunięte**.
 
 2. Paragraf 7 (AI — ograniczenia), § 8 (zakazy), § 11 (własność intelektualna), § 13 (odpowiedzialność) i § 15 (poufność) obowiązują po rozwiązaniu Umowy.
 
@@ -434,6 +432,8 @@ Recwin **nie ponosi odpowiedzialności** za:
    g) utratę danych na urządzeniu Użytkownika spowodowaną awarią urządzenia przed zakończeniem przesyłania,
    h) szkody pośrednie, utracone korzyści, utratę reputacji lub szkody następcze — w najszerszym zakresie dozwolonym przez prawo.
 
+Ograniczenia odpowiedzialności z niniejszego paragrafu nie mają zastosowania do Klientów będących konsumentami lub osobami fizycznymi, o których mowa w art. 38a ustawy o prawach konsumenta, w zakresie sprzecznym z bezwzględnie obowiązującymi przepisami prawa.
+
 ### 13.4 Odpowiedzialność Klienta
 
 Klient odpowiada za:
@@ -443,7 +443,7 @@ Klient odpowiada za:
    d) bezpieczeństwo danych logowania i urządzeń swoich Użytkowników,
    e) działania i zaniechania swoich Użytkowników.
 
-### 13.5 Wzajemne zwolnienie z odpowiedzialności (indemnification)
+### 13.5 Zwolnienie Recwin z odpowiedzialności przez Klienta
 
 Klient zobowiązuje się zwolnić Recwin z odpowiedzialności, pokryć koszty i chronić Recwin przed wszelkimi roszczeniami, szkodami i kosztami (w tym uzasadnionymi kosztami obsługi prawnej) wynikającymi z:
    a) naruszenia prawa przez Klienta lub Użytkowników w związku z nagrywaniem,
@@ -477,7 +477,7 @@ Klient zobowiązuje się zwolnić Recwin z odpowiedzialności, pokryć koszty i 
    b) były znane Stronie otrzymującej przed ich ujawnieniem,
    c) zostały ujawnione na podstawie przepisów prawa lub decyzji organu.
 
-4. Zobowiązanie do poufności obowiązuje bezterminowo (po rozwiązaniu Umowy).
+4. Zobowiązanie do poufności obowiązuje: (i) bezterminowo w odniesieniu do tajemnicy przedsiębiorstwa w rozumieniu art. 11 ustawy o zwalczaniu nieuczciwej konkurencji, (ii) przez 3 lata od rozwiązania Umowy w odniesieniu do pozostałych informacji poufnych.
 
 ---
 
@@ -499,11 +499,9 @@ Klient zobowiązuje się zwolnić Recwin z odpowiedzialności, pokryć koszty i 
 
 2. Podział ról w zakresie ochrony danych osobowych:
    a) **Klient** jest administratorem danych osobowych swoich pracowników i klientów,
-   b) **Recwin** jest podmiotem przetwarzającym (w zakresie przechowywania nagrań i transkrypcji) oraz współadministratorem (w zakresie analizy AI) — na podstawie UPP/DPA i JCA stanowiących załączniki do Umowy.
+   b) **Recwin** jest podmiotem przetwarzającym w odniesieniu do wszystkich Danych Klienta (nagrania, transkrypcje, wyniki AI, dane osób nagrywanych) — na podstawie UPP/DPA stanowiącej załącznik do Umowy.
 
 3. Szczegółowe zasady powierzenia przetwarzania określa Umowa Powierzenia Przetwarzania (UPP/DPA).
-
-4. Szczegółowe zasady współadministrowania określa Porozumienie o Współadministrowaniu (JCA).
 
 ---
 
@@ -518,6 +516,16 @@ Klient zobowiązuje się zwolnić Recwin z odpowiedzialności, pokryć koszty i 
 2. Co do zasady, żądania dotyczące Danych Klienta powinny być kierowane do **Klienta** (administratora danych). Recwin przekieruje żądania do Klienta, chyba że żądanie jest skierowane bezpośrednio i wyraźnie do Recwin jako podmiotu przetwarzającego.
 
 3. Recwin może zabezpieczyć (zamrozić) Dane Klienta na żądanie uprawnionego organu, powstrzymując się od ich usunięcia do czasu rozstrzygnięcia sprawy, nawet jeśli upłynął okres retencji.
+
+---
+
+## § 17b. Powiadomienie o naruszeniu ochrony danych
+
+1. W przypadku stwierdzenia naruszenia ochrony danych osobowych dotyczącego Danych Klienta, Recwin niezwłocznie (nie później niż w ciągu **24 godzin** od stwierdzenia naruszenia) powiadomi Klienta, przekazując informacje niezbędne do spełnienia obowiązków Klienta wynikających z art. 33 i 34 RODO.
+
+2. Powiadomienie obejmuje co najmniej: opis charakteru naruszenia, kategorie i przybliżoną liczbę osób dotkniętych naruszeniem, prawdopodobne konsekwencje naruszenia oraz środki podjęte lub proponowane w celu zaradzenia naruszeniu.
+
+3. Szczegółowe zasady postępowania w przypadku naruszenia określa UPP/DPA.
 
 ---
 
@@ -576,7 +584,7 @@ Klient zobowiązuje się zwolnić Recwin z odpowiedzialności, pokryć koszty i 
 
 3. Klient nie może przenieść praw i obowiązków wynikających z Umowy na osobę trzecią bez pisemnej zgody Recwin.
 
-4. Recwin może przenieść prawa i obowiązki wynikające z Umowy na podmiot powiązany lub w związku z przejęciem, fuzją lub sprzedażą całości lub istotnej części przedsiębiorstwa, powiadamiając Klienta z wyprzedzeniem 30 dni.
+4. Recwin może przenieść prawa i obowiązki wynikające z Umowy na podmiot powiązany lub w związku z przejęciem, fuzją lub sprzedażą całości lub istotnej części przedsiębiorstwa, powiadamiając Klienta z wyprzedzeniem 30 dni. W przypadku przeniesienia na podmiot powiązany niebędącego następstwem sukcesji uniwersalnej, przeniesienie obowiązków wymaga zgody Klienta, która nie będzie bezzasadnie odmawiana.
 
 5. Wszelkie zawiadomienia na podstawie Umowy są kierowane:
    a) do Recwin: kontakt@recwin.pl
