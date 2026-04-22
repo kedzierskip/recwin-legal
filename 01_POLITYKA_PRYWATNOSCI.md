@@ -158,7 +158,9 @@ Ze wszystkimi podmiotami przetwarzającymi podpisane są umowy powierzenia przet
 
 ### 6.2 Przetwarzanie w Unii Europejskiej
 
-Wszystkie dane produkcyjne (nagrania, transkrypcje, dane użytkowników, wyniki AI) są przetwarzane i przechowywane **wyłącznie na terenie Unii Europejskiej** (Frankfurt, Niemcy oraz Dublin, Irlandia).
+Wszystkie dane produkcyjne (nagrania, transkrypcje, dane użytkowników, wyniki AI) są przechowywane i przetwarzane **co do zasady na terytorium Unii Europejskiej** (Frankfurt, Niemcy oraz Dublin, Irlandia). Infrastruktura Recwin jest skonfigurowana do przetwarzania danych wyłącznie w regionach UE.
+
+W wyjątkowych sytuacjach technicznych (np. wsparcie techniczne dostawcy infrastruktury, reagowanie na incydenty bezpieczeństwa) personel dostawcy spoza UE może uzyskać ograniczony dostęp do danych. W takich przypadkach podstawą transferu są standardowe klauzule umowne (art. 46 ust. 2 lit. c RODO) lub decyzja o adekwatności (art. 45 RODO — EU-US Data Privacy Framework), zawarte w umowach z dostawcami.
 
 ### 6.3 Przekazywanie danych poza UE
 
@@ -318,7 +320,7 @@ Zgodnie z art. 50 Aktu AI informujemy:
 - AI **nie rozpoznaje emocji** z tonu głosu — analiza sentymentu opiera się wyłącznie na tekście
 - AI **nie podejmuje decyzji** dotyczących zatrudnienia lub współpracy, wynagrodzenia ani warunków pracy
 - Modele AI **nie są trenowane** na danych użytkowników Recwin
-- Przetwarzanie AI odbywa się **wyłącznie w UE** (Frankfurt, Niemcy)
+- Przetwarzanie AI odbywa się **co do zasady w UE** (Frankfurt, Niemcy) — szczegóły w sekcji 6.2
 
 ### 12.3 Przejrzystość i umiejętności AI
 
@@ -368,7 +370,7 @@ Recwin zaleca organizacjom Klientów B2B dokumentowanie faktu poinformowania oso
 
 ### 13.6 Odbiorcy danych
 
-Twoje dane mogą być przekazywane kategoriom odbiorców wymienionym w sekcji 6.1 niniejszej polityki. Wszystkie dane produkcyjne są przetwarzane wyłącznie na terenie UE (sekcja 6.2).
+Twoje dane mogą być przekazywane kategoriom odbiorców wymienionym w sekcji 6.1 niniejszej polityki. Dane produkcyjne są przetwarzane co do zasady na terenie UE (szczegóły w sekcji 6.2).
 
 ### 13.7 Okres przechowywania
 

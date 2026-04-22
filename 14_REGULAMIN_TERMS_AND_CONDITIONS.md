@@ -56,7 +56,7 @@
 
 3. Recwin nie tworzy wzorców biometrycznych głosu — szczegółowe informacje w Polityce Prywatności (sekcja 2).
 
-4. Wszystkie dane produkcyjne są przetwarzane i przechowywane **wyłącznie na terytorium Unii Europejskiej** (Frankfurt, Niemcy oraz Dublin, Irlandia).
+4. Wszystkie dane produkcyjne są przechowywane i przetwarzane **co do zasady na terytorium Unii Europejskiej** (Frankfurt, Niemcy oraz Dublin, Irlandia). Szczegółowe zasady dotyczące ewentualnych transferów danych określa Polityka Prywatności (sekcja 6) oraz UPP/DPA (§ 6).
 
 5. **Wymagania techniczne.** Korzystanie z Platformy wymaga: przeglądarki internetowej (Chrome, Safari, Firefox — aktualna wersja) oraz stałego połączenia z internetem. Aplikacja mobilna wymaga systemu iOS 16+ lub Android 10+. Aplikacja mobilna jest dostępna w App Store (iOS) i Google Play (Android). Aktualne wymagania techniczne są publikowane na stronie recwin.pl/wymagania.
 
