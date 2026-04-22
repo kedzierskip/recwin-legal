@@ -167,7 +167,7 @@ Recwin zastrzega sobie prawo do **natychmiastowego zawieszenia lub zamknięcia K
    b) będą zawsze **weryfikowane przez przełożonego** (człowieka) przed podjęciem jakichkolwiek decyzji dotyczących Użytkownika,
    c) będą **dostępne dla handlowca**, który ma prawo je zakwestionować.
 
-2. Recwin oznacza każdą ocenę AI etykietą informującą o jej automatycznym charakterze.
+2. Recwin zapewnia, że wyniki generowane przez AI są wyraźnie odróżnialne od treści tworzonych przez człowieka.
 
 ### 7.3 Analiza sentymentu
 

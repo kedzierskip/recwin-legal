@@ -213,7 +213,7 @@ Przysługują Ci następujące prawa wynikające z RODO:
 | **Przenoszenie danych** (art. 20) | Otrzymanie danych w ustrukturyzowanym formacie (JSON/CSV) | E-mail na dane@recwin.pl |
 | **Sprzeciw** (art. 21) | Sprzeciw wobec przetwarzania opartego na uzasadnionym interesie | E-mail na dane@recwin.pl |
 | **Cofnięcie zgody** (art. 7 ust. 3) | Cofnięcie zgody na przetwarzanie danych na podstawie zgody (nagrywanie rozmów, cookies) — nie wpływa na zgodność z prawem przetwarzania sprzed cofnięcia. W przypadku cofnięcia zgody na nagrywanie: zaprzestanie nagrywania, dane sprzed cofnięcia usuwane wg standardowej retencji (90 dni audio / 365 dni tekst). | E-mail na dane@recwin.pl, ustawienia cookies na stronie, lub informacja do pracodawcy |
-| **Niepodleganie zautomatyzowanym decyzjom** (art. 22) | Prawo do ludzkiej weryfikacji ocen wygenerowanych przez AI | E-mail lub w aplikacji (przycisk „Kwestionuj ocenę") |
+| **Niepodleganie zautomatyzowanym decyzjom** (art. 22) | Prawo do ludzkiej weryfikacji ocen wygenerowanych przez AI | E-mail na dane@recwin.pl lub za pośrednictwem aplikacji |
 
 **Ważne dla osób nagrywanych (osób, z którymi handlowiec prowadził rozmowę):**
 - Jeśli jesteś osobą nagrywaną podczas wizyty handlowca, Twoje prawa realizuje **organizacja, która zatrudnia handlowca** (administrator danych). Skontaktuj się bezpośrednio z firmą, której pracownik prowadził z Tobą rozmowę.
@@ -304,15 +304,15 @@ Zgodnie z art. 50 Aktu AI informujemy:
 
 ### 12.1 Gdzie stosujemy AI
 
-| Funkcja | Rodzaj modelu AI | Cel | Oznaczenie w aplikacji |
-|---|---|---|---|
-| Transkrypcja | Zewnętrzna usługa transkrypcji mowy (przetwarzanie w UE) | Zamiana mowy na tekst | Ikona mikrofonu + „Transkrypcja AI" |
-| Podsumowanie rozmowy | Zewnętrzny model językowy AI (przetwarzanie w UE) | Streszczenie treści | Ikona robota + „Podsumowanie AI" |
-| Komentarze coachingowe | Zewnętrzny model językowy AI (przetwarzanie w UE) | Sugestie szkoleniowe | Etykieta „AI Coaching" |
-| Ocena skryptu | Zewnętrzny model językowy AI (przetwarzanie w UE) | Weryfikacja realizacji skryptu | Etykieta „Ocena AI" + „Wymaga weryfikacji" |
-| Analiza sentymentu | Zewnętrzny model językowy AI (przetwarzanie w UE) | Ocena tonu rozmowy (z tekstu) | Etykieta „Sentyment AI" |
-| Asystent AI (chatbot) | Zewnętrzny model językowy AI (przetwarzanie w UE) | Odpowiedzi na pytania o rozmowę | Oznaczenie „Rozmawiasz z AI" |
-| Wyszukiwanie semantyczne | Zewnętrzna usługa embeddingów (przetwarzanie w UE) | Wyszukiwanie treści | Ikona wyszukiwania |
+| Funkcja | Rodzaj modelu AI | Cel |
+|---|---|---|
+| Transkrypcja | Zewnętrzna usługa transkrypcji mowy (przetwarzanie w UE) | Zamiana mowy na tekst |
+| Podsumowanie rozmowy | Zewnętrzny model językowy AI (przetwarzanie w UE) | Streszczenie treści |
+| Komentarze coachingowe | Zewnętrzny model językowy AI (przetwarzanie w UE) | Sugestie szkoleniowe |
+| Ocena skryptu | Zewnętrzny model językowy AI (przetwarzanie w UE) | Weryfikacja realizacji skryptu |
+| Analiza sentymentu | Zewnętrzny model językowy AI (przetwarzanie w UE) | Ocena tonu rozmowy (z tekstu) |
+| Asystent AI (chatbot) | Zewnętrzny model językowy AI (przetwarzanie w UE) | Odpowiedzi na pytania o rozmowę |
+| Wyszukiwanie semantyczne | Zewnętrzna usługa embeddingów (przetwarzanie w UE) | Wyszukiwanie treści |
 
 ### 12.2 Ograniczenia AI
 
@@ -392,7 +392,7 @@ Masz prawo złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO),
 ## 14. Zmiany w polityce prywatności
 
 O istotnych zmianach niniejszej polityki poinformujemy:
-- Użytkowników platformy — powiadomieniem w aplikacji i e-mailem
+- Użytkowników platformy — e-mailem i/lub powiadomieniem w aplikacji
 - Na stronie recwin.pl — poprzez aktualizację daty i treści niniejszego dokumentu
 
 Drobne zmiany redakcyjne nie wymagają powiadomienia.
