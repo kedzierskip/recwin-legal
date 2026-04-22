@@ -213,7 +213,7 @@ Przysługują Ci następujące prawa wynikające z RODO:
 | **Przenoszenie danych** (art. 20) | Otrzymanie danych w ustrukturyzowanym formacie (JSON/CSV) | E-mail na dane@recwin.pl |
 | **Sprzeciw** (art. 21) | Sprzeciw wobec przetwarzania opartego na uzasadnionym interesie | E-mail na dane@recwin.pl |
 | **Cofnięcie zgody** (art. 7 ust. 3) | Cofnięcie zgody na przetwarzanie danych na podstawie zgody (nagrywanie rozmów, cookies) — nie wpływa na zgodność z prawem przetwarzania sprzed cofnięcia. W przypadku cofnięcia zgody na nagrywanie: zaprzestanie nagrywania, dane sprzed cofnięcia usuwane wg standardowej retencji (90 dni audio / 365 dni tekst). | E-mail na dane@recwin.pl, ustawienia cookies na stronie, lub informacja do pracodawcy |
-| **Niepodleganie zautomatyzowanym decyzjom** (art. 22) | Prawo do ludzkiej weryfikacji ocen wygenerowanych przez AI | E-mail na dane@recwin.pl lub za pośrednictwem aplikacji |
+| **Niepodleganie zautomatyzowanym decyzjom** (art. 22) | Prawo do ludzkiej weryfikacji ocen wygenerowanych przez AI | E-mail lub w aplikacji (przycisk „Kwestionuj ocenę") |
 
 **Ważne dla osób nagrywanych (osób, z którymi handlowiec prowadził rozmowę):**
 - Jeśli jesteś osobą nagrywaną podczas wizyty handlowca, Twoje prawa realizuje **organizacja, która zatrudnia handlowca** (administrator danych). Skontaktuj się bezpośrednio z firmą, której pracownik prowadził z Tobą rozmowę.
