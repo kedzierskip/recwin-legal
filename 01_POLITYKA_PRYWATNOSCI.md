@@ -223,7 +223,7 @@ Przysługują Ci następujące prawa wynikające z RODO:
 
 **Prawo do skargi:** Masz prawo złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO):
 - Urząd Ochrony Danych Osobowych
-- ul. Stawki 2, 00-193 Warszawa
+- ul. Stanisława Moniuszki 1A, 00-014 Warszawa
 - www.uodo.gov.pl
 
 ---
@@ -385,7 +385,7 @@ Skontaktuj się z organizacją zatrudniającą handlowca (administratorem danych
 
 ### 13.9 Prawo do skargi
 
-Masz prawo złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO), ul. Stawki 2, 00-193 Warszawa, www.uodo.gov.pl.
+Masz prawo złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO), ul. Stanisława Moniuszki 1A, 00-014 Warszawa, www.uodo.gov.pl.
 
 ---
 
