@@ -138,8 +138,9 @@ Klient i Użytkownicy **nie mogą** wykorzystywać Platformy do:
    b) nagrywania rozmów, w których Użytkownik nie jest uczestnikiem,
    c) nagrywania rozmów w miejscach, gdzie nagrywanie jest zabronione,
    d) nagrywania rozmów w celu szantażu, zastraszania lub innego niezgodnego z prawem celu,
-   e) celowego nagrywania osób poniżej 16 lat. W przypadku incydentalnego uchwycenia głosu osoby małoletniej (np. członka rodziny obecnego przy rozmowie), Klient powinien dołożyć starań, aby zminimalizować przetwarzanie takich danych,
-   f) publikowania, udostępniania lub rozpowszechniania nagrań poza Platformą bez podstawy prawnej.
+   e) celowego nagrywania osób poniżej 16 lat. W przypadku incydentalnego uchwycenia głosu osoby małoletniej (np. członka rodziny obecnego przy rozmowie), Klient musi niezwłocznie usunąć nagranie lub zgłosić je do usunięcia przez Recwin,
+   f) publikowania, udostępniania lub rozpowszechniania nagrań poza Platformą bez podstawy prawnej,
+   g) nagrywania rozmów prowadzonych w języku innym niż polski bez uprzedniego poinformowania Recwin. Platforma obsługuje wyłącznie transkrypcję i analizę AI w języku polskim — nagrania w innych językach mogą nie zostać przetworzone lub zostać przetworzone z błędami.
 
 ### 6.3 Konsekwencje naruszenia
 
@@ -393,6 +394,8 @@ Recwin może rozwiązać Umowę ze skutkiem natychmiastowym (bez wypowiedzenia),
    c) po upływie 30 dni od rozwiązania (lub po zakończeniu realizacji eksportu, jeśli przypada później) wszystkie Dane Klienta są **trwale usunięte**.
 
 2. Paragraf 7 (AI — ograniczenia), § 8 (zakazy), § 11 (własność intelektualna), § 13 (odpowiedzialność) i § 15 (poufność) obowiązują po rozwiązaniu Umowy.
+
+3. W przypadku ogłoszenia upadłości, otwarcia postępowania restrukturyzacyjnego lub likwidacji Klienta, żądanie eksportu danych (lit. b powyżej) może zostać złożone wyłącznie przez osobę posiadającą umocowanie wynikające z postanowienia sądu (syndyk, zarządca, likwidator). Do czasu otrzymania takiego żądania lub upływu 30 dni od powzięcia przez Recwin informacji o postępowaniu, Dane Klienta pozostają na serwerach i nie są usuwane.
 
 ### 12.6 Zawieszenie dostępu (np. za brak płatności)
 

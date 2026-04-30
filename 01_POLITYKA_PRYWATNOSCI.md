@@ -1,7 +1,11 @@
 # Polityka Prywatności Recwin
 
 **Data wejścia w życie:** 21 kwietnia 2026
-**Ostatnia aktualizacja:** 22 kwietnia 2026
+**Ostatnia aktualizacja:** 30 kwietnia 2026
+
+---
+
+> **W skrócie:** Recwin to platforma do nagrywania i analizy rozmów sprzedażowych prowadzonych osobiście. Nagrania audio usuwamy automatycznie po **90 dniach**, transkrypcje i wyniki AI po **365 dniach**. Wszystkie dane przechowujemy w **Unii Europejskiej** (Frankfurt, Dublin). Nie wykorzystujemy danych do trenowania AI. Masz prawo dostępu, usunięcia, sprostowania i sprzeciwu — napisz na **dane@recwin.pl**. Pełna lista podwykonawców dostępna na żądanie. Pełne szczegóły poniżej.
 
 ---
 
@@ -38,8 +42,11 @@ Niniejsza polityka dotyczy następujących kategorii osób:
 | Kategoria | Opis |
 |---|---|
 | **Użytkownicy platformy** | Handlowcy, menedżerowie i administratorzy korzystający z aplikacji Recwin |
-| **Osoby nagrywane** | Klienci handlowców (konsumenci lub przedstawiciele firm), z którymi handlowiec prowadzi rozmowę |
+| **Osoby nagrywane** | Osoby, z którymi handlowiec prowadzi nagrywaną rozmowę (konsumenci lub przedstawiciele firm) |
 | **Odwiedzający stronę** | Osoby odwiedzające stronę recwin.pl |
+| **Klient B2B** | Organizacja (firma), która zawarła umowę z Recwin i jest administratorem danych swoich pracowników i osób nagrywanych |
+
+**Uwaga terminologiczna:** W niniejszej polityce termin „Klient B2B" oznacza organizację korzystającą z Recwin (administrator danych), a termin „osoba nagrywana" oznacza osobę, której rozmowa jest nagrywana. Terminy te nie są tożsame.
 
 ---
 
@@ -154,7 +161,7 @@ Twoje dane mogą być przekazywane następującym kategoriom odbiorców:
 | Dostawcy usług analityki (za zgodą) | Analiza ruchu na stronie | Dane z plików cookie |
 | Dostawcy usług reklamowych (za zgodą) | Reklama, remarketing | Dane z plików cookie |
 
-Ze wszystkimi podmiotami przetwarzającymi podpisane są umowy powierzenia przetwarzania (UPP) zgodne z art. 28 RODO. Aktualna lista podprocesorów (z nazwami podmiotów) stanowi załącznik do UPP/DPA i jest udostępniana na żądanie.
+Ze wszystkimi podmiotami przetwarzającymi podpisane są umowy powierzenia przetwarzania (UPP) zgodne z art. 28 RODO. Pełna lista podwykonawców (z nazwami podmiotów, lokalizacją i zakresem przetwarzania) dostępna na żądanie pod adresem dane@recwin.pl.
 
 ### 6.2 Przetwarzanie w Unii Europejskiej
 
@@ -182,7 +189,7 @@ Szczegółowe zasady powierzenia przetwarzania określa Umowa Powierzenia Przetw
 
 | Dane | Okres przechowywania | Uzasadnienie |
 |---|---|---|
-| **Nagrania audio** | **90 dni** od przetworzenia (lub 90 dni od daty przesłania, jeśli przetwarzanie nie zostało ukończone) | Wysoka wrażliwość danych głosowych; wystarczający czas na przegląd coachingowy |
+| **Nagrania audio** | **90 dni** od daty przesłania na serwer, niezależnie od statusu przetworzenia | Wysoka wrażliwość danych głosowych; wystarczający czas na przegląd coachingowy |
 | **Transkrypcje i wyniki AI** | **365 dni** od daty rozmowy | Niższa wrażliwość niż audio; wartość szkoleniowa w cyklu rocznym |
 | **Komentarze** | 365 dni lub wraz z usunięciem rozmowy macierzystej | Powiązane z rozmową |
 | **Dziennik audytu** (IP, aktywność) | **2 lata** | Standardowy okres retencji logów bezpieczeństwa |
@@ -374,7 +381,7 @@ Twoje dane mogą być przekazywane kategoriom odbiorców wymienionym w sekcji 6.
 
 ### 13.7 Okres przechowywania
 
-- **Nagranie audio:** maksymalnie 90 dni od przetworzenia, następnie automatycznie usuwane
+- **Nagranie audio:** maksymalnie 90 dni od daty przesłania na serwer, następnie automatycznie usuwane
 - **Transkrypcja i wyniki AI:** maksymalnie 365 dni od daty rozmowy
 
 ### 13.8 Twoje prawa (RODO)
@@ -382,6 +389,8 @@ Twoje dane mogą być przekazywane kategoriom odbiorców wymienionym w sekcji 6.
 Przysługują Ci prawa wymienione w sekcji 8 niniejszej polityki, w szczególności prawo dostępu, sprostowania, usunięcia, ograniczenia przetwarzania i sprzeciwu.
 
 Skontaktuj się z organizacją zatrudniającą handlowca (administratorem danych). Możesz również skontaktować się z Recwin na dane@recwin.pl — przekierujemy Twoje żądanie do odpowiedniego administratora.
+
+**Identyfikacja nagrań:** Recwin nie posiada centralnego rejestru osób nagrywanych. W celu realizacji żądania usunięcia lub dostępu do danych, osoba nagrywana powinna skontaktować się z organizacją Klienta B2B (administratorem danych), podając: przybliżoną datę rozmowy, nazwę handlowca lub inne okoliczności umożliwiające identyfikację nagrania. Administrator wskaże Recwin konkretne nagrania do usunięcia lub udostępnienia.
 
 ### 13.9 Prawo do skargi
 
