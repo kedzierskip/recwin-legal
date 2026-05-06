@@ -129,6 +129,9 @@
    b) nie są zmodyfikowane w sposób naruszający bezpieczeństwo systemu operacyjnego (jailbreak / root),
    c) mają aktualny system operacyjny z zainstalowanymi poprawkami bezpieczeństwa,
    d) nie są współdzielone z osobami nieupoważnionymi do korzystania z Platformy.
+
+7. **Odtwarzanie nagrań.** Klient zobowiązuje się, że nagrania rozmów zawierające głos osób nagrywanych będą odtwarzane wyłącznie na słuchawkach lub w zamkniętym pomieszczeniu zapewniającym poufność. Odtwarzanie nagrań na głośnikach w przestrzeniach, w których mogą je usłyszeć osoby nieupoważnione, jest zabronione.
+
    Recwin nie ponosi odpowiedzialności za wycieki danych wynikające z niespełnienia powyższych warunków.
 
 ### 6.2 Zakazane użycie nagrywania
